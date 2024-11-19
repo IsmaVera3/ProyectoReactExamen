@@ -1,0 +1,19 @@
+{
+  "usuario": [
+    {
+      "name": "isma",
+      "apellido": "vera",
+      "id": 1
+    },
+    {
+      "name": "isma",
+      "apellido": "verga",
+      "id": 2
+    },
+    {
+      "name": "isma",
+      "apellido": "verga",
+      "id": 3
+    }
+  ]
+}
